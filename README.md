@@ -11,13 +11,11 @@ This project is an inventory management system developed for ARS Enterprises to 
 
 1. Navigate to the backend directory:
    ```bash
-      cd inventory-backend
-
+   cd inventory-backend
 
 2. Install dependencies:
    ```bash
    npm install
-
 
 3. Start the backend server:
    ```bash
